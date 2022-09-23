@@ -1,0 +1,13 @@
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\obj\Debug\HospitalManagementPL.csproj.AssemblyReference.cache
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\obj\Debug\HospitalManagementPL.csproj.CoreCompileInputs.cache
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\bin\Debug\HospitalManagementPL.dll
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\bin\Debug\HospitalManagementPL.pdb
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\bin\Debug\HospitalManagementBLL.dll
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\bin\Debug\HospitalManagementEntity.dll
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\bin\Debug\HospitalManagementDAL.dll
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\bin\Debug\HospitalManagementBLL.pdb
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\bin\Debug\HospitalManagementEntity.pdb
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\bin\Debug\HospitalManagementDAL.pdb
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\obj\Debug\HospitalManagementPL.csproj.CopyComplete
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\obj\Debug\HospitalManagementPL.dll
+E:\.NET training\csharp\HospitalManagement\HospitalManagementPL\obj\Debug\HospitalManagementPL.pdb
