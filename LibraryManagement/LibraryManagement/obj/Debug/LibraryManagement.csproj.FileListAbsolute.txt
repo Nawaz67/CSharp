@@ -1,0 +1,17 @@
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.SuggestedBindingRedirects.cache
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementPresentation.dll
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementBusiness.dll
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementData.dll
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementEntity.dll
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementPresentation.pdb
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementBusiness.pdb
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementData.pdb
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagementEntity.pdb
+E:\.NET training\csharp\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CopyComplete

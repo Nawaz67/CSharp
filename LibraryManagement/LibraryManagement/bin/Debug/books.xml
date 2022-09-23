@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <BookAuthor>jhv</BookAuthor>
+    <BookCopies>3</BookCopies>
+    <BookId>3</BookId>
+    <BookName>jv</BookName>
+  </Book>
+  <Book>
+    <BookAuthor>fjfjf</BookAuthor>
+    <BookCopies>5</BookCopies>
+    <BookId>9</BookId>
+    <BookName>fjf</BookName>
+  </Book>
+  <Book>
+    <BookAuthor>nnss</BookAuthor>
+    <BookCopies>23</BookCopies>
+    <BookId>11</BookId>
+    <BookName>nnss</BookName>
+  </Book>
+  <Book>
+    <BookAuthor>sgsg</BookAuthor>
+    <BookCopies>2</BookCopies>
+    <BookId>121</BookId>
+    <BookName>gshg</BookName>
+  </Book>
+</ArrayOfBook>
