@@ -1,6 +1,0 @@
-E:\.NET training\csharp\HospitalManagement\HospitalManagementEntity\bin\Debug\HospitalManagementEntity.dll
-E:\.NET training\csharp\HospitalManagement\HospitalManagementEntity\bin\Debug\HospitalManagementEntity.pdb
-E:\.NET training\csharp\HospitalManagement\HospitalManagementEntity\obj\Debug\HospitalManagementEntity.csproj.AssemblyReference.cache
-E:\.NET training\csharp\HospitalManagement\HospitalManagementEntity\obj\Debug\HospitalManagementEntity.csproj.CoreCompileInputs.cache
-E:\.NET training\csharp\HospitalManagement\HospitalManagementEntity\obj\Debug\HospitalManagementEntity.dll
-E:\.NET training\csharp\HospitalManagement\HospitalManagementEntity\obj\Debug\HospitalManagementEntity.pdb
