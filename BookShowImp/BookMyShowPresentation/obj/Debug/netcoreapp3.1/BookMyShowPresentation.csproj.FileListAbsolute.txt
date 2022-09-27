@@ -1,0 +1,15 @@
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\bin\Debug\netcoreapp3.1\BookMyShowPresentation.deps.json
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\bin\Debug\netcoreapp3.1\BookMyShowPresentation.dll
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\bin\Debug\netcoreapp3.1\BookMyShowPresentation.pdb
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\bin\Debug\netcoreapp3.1\BookMyShowData.dll
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\bin\Debug\netcoreapp3.1\BookMyShowEntity.dll
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\bin\Debug\netcoreapp3.1\BookMyShowData.pdb
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\bin\Debug\netcoreapp3.1\BookMyShowEntity.pdb
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\obj\Debug\netcoreapp3.1\BookMyShowPresentation.csproj.AssemblyReference.cache
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\obj\Debug\netcoreapp3.1\BookMyShowPresentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\obj\Debug\netcoreapp3.1\BookMyShowPresentation.AssemblyInfoInputs.cache
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\obj\Debug\netcoreapp3.1\BookMyShowPresentation.AssemblyInfo.cs
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\obj\Debug\netcoreapp3.1\BookMyShowPresentation.csproj.CoreCompileInputs.cache
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\obj\Debug\netcoreapp3.1\BookMyShowPresentation.csproj.CopyComplete
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\obj\Debug\netcoreapp3.1\BookMyShowPresentation.dll
+E:\.NET training\csharp\BookShow\BookMyShowPresentation\obj\Debug\netcoreapp3.1\BookMyShowPresentation.pdb
