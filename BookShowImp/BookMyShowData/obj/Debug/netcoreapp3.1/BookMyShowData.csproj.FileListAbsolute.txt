@@ -1,0 +1,16 @@
+E:\.NET training\csharp\BookShow\BookMyShowData\bin\Debug\netcoreapp3.1\BookMyShowData.deps.json
+E:\.NET training\csharp\BookShow\BookMyShowData\bin\Debug\netcoreapp3.1\BookMyShowData.runtimeconfig.json
+E:\.NET training\csharp\BookShow\BookMyShowData\bin\Debug\netcoreapp3.1\BookMyShowData.runtimeconfig.dev.json
+E:\.NET training\csharp\BookShow\BookMyShowData\bin\Debug\netcoreapp3.1\BookMyShowData.dll
+E:\.NET training\csharp\BookShow\BookMyShowData\bin\Debug\netcoreapp3.1\BookMyShowData.pdb
+E:\.NET training\csharp\BookShow\BookMyShowData\bin\Debug\netcoreapp3.1\BookMyShowEntity.dll
+E:\.NET training\csharp\BookShow\BookMyShowData\bin\Debug\netcoreapp3.1\BookMyShowEntity.pdb
+E:\.NET training\csharp\BookShow\BookMyShowData\obj\Debug\netcoreapp3.1\BookMyShowData.csproj.AssemblyReference.cache
+E:\.NET training\csharp\BookShow\BookMyShowData\obj\Debug\netcoreapp3.1\BookMyShowData.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET training\csharp\BookShow\BookMyShowData\obj\Debug\netcoreapp3.1\BookMyShowData.AssemblyInfoInputs.cache
+E:\.NET training\csharp\BookShow\BookMyShowData\obj\Debug\netcoreapp3.1\BookMyShowData.AssemblyInfo.cs
+E:\.NET training\csharp\BookShow\BookMyShowData\obj\Debug\netcoreapp3.1\BookMyShowData.csproj.CoreCompileInputs.cache
+E:\.NET training\csharp\BookShow\BookMyShowData\obj\Debug\netcoreapp3.1\BookMyShowData.csproj.CopyComplete
+E:\.NET training\csharp\BookShow\BookMyShowData\obj\Debug\netcoreapp3.1\BookMyShowData.dll
+E:\.NET training\csharp\BookShow\BookMyShowData\obj\Debug\netcoreapp3.1\BookMyShowData.pdb
+E:\.NET training\csharp\BookShow\BookMyShowData\obj\Debug\netcoreapp3.1\BookMyShowData.genruntimeconfig.cache

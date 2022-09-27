@@ -1,0 +1,10 @@
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\bin\Debug\netcoreapp3.1\BookMyShowBusiness.deps.json
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\bin\Debug\netcoreapp3.1\BookMyShowBusiness.dll
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\bin\Debug\netcoreapp3.1\BookMyShowBusiness.pdb
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\obj\Debug\netcoreapp3.1\BookMyShowBusiness.csproj.AssemblyReference.cache
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\obj\Debug\netcoreapp3.1\BookMyShowBusiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\obj\Debug\netcoreapp3.1\BookMyShowBusiness.AssemblyInfoInputs.cache
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\obj\Debug\netcoreapp3.1\BookMyShowBusiness.AssemblyInfo.cs
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\obj\Debug\netcoreapp3.1\BookMyShowBusiness.csproj.CoreCompileInputs.cache
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\obj\Debug\netcoreapp3.1\BookMyShowBusiness.dll
+E:\.NET training\csharp\BookShow\BookMyShowBusiness\obj\Debug\netcoreapp3.1\BookMyShowBusiness.pdb
