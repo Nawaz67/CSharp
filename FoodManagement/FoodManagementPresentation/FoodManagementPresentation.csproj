@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FoodManagementBusiness\FoodManagementBusiness.csproj" />
+    <ProjectReference Include="..\FoodManagementData\FoodManagementData.csproj" />
+  </ItemGroup>
+
+</Project>
