@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfFoodCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FoodCategory>
+    <CategoryId>1</CategoryId>
+    <CategoryName>South Indian</CategoryName>
+    <Id>1</Id>
+  </FoodCategory>
+  <FoodCategory>
+    <CategoryId>2</CategoryId>
+    <CategoryName>South indian</CategoryName>
+    <Id>1</Id>
+  </FoodCategory>
+  <FoodCategory>
+    <CategoryId>3</CategoryId>
+    <CategoryName>Chinese</CategoryName>
+    <Id>3</Id>
+  </FoodCategory>
+</ArrayOfFoodCategory>

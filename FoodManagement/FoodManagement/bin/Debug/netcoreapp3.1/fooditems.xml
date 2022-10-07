@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfFoodItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FoodItem>
+    <Id>1</Id>
+    <FoodName>Dal chawal</FoodName>
+    <FoodPrice>60</FoodPrice>
+  </FoodItem>
+  <FoodItem>
+    <Id>2</Id>
+    <FoodName>Chole batura</FoodName>
+    <FoodPrice>40</FoodPrice>
+  </FoodItem>
+  <FoodItem>
+    <Id>3</Id>
+    <FoodName>Poori</FoodName>
+    <FoodPrice>50</FoodPrice>
+  </FoodItem>
+  <FoodItem>
+    <Id>4</Id>
+    <FoodName>Idli </FoodName>
+    <FoodPrice>45</FoodPrice>
+  </FoodItem>
+  <FoodItem>
+    <Id>5</Id>
+    <FoodName>Rice bath</FoodName>
+    <FoodPrice>50</FoodPrice>
+  </FoodItem>
+</ArrayOfFoodItem>

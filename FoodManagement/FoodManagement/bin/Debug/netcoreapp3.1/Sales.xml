@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfSales xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sales>
+    <SalesId>1</SalesId>
+    <SalesName>Prabhu</SalesName>
+    <Id>1</Id>
+    <TotalItem>4</TotalItem>
+    <TotalBill>240</TotalBill>
+  </Sales>
+  <Sales>
+    <SalesId>2</SalesId>
+    <SalesName>Chandan</SalesName>
+    <Id>2</Id>
+    <TotalItem>5</TotalItem>
+    <TotalBill>200</TotalBill>
+  </Sales>
+  <Sales>
+    <SalesId>3</SalesId>
+    <SalesName>Prabhu</SalesName>
+    <Id>1</Id>
+    <TotalItem>5</TotalItem>
+    <TotalBill>300</TotalBill>
+  </Sales>
+</ArrayOfSales>
