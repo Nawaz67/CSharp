@@ -1,0 +1,15 @@
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\bin\Debug\netcoreapp3.1\FoodManagementBusiness.deps.json
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\bin\Debug\netcoreapp3.1\FoodManagementBusiness.dll
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\bin\Debug\netcoreapp3.1\FoodManagementBusiness.pdb
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\obj\Debug\netcoreapp3.1\FoodManagementBusiness.csproj.AssemblyReference.cache
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\obj\Debug\netcoreapp3.1\FoodManagementBusiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\obj\Debug\netcoreapp3.1\FoodManagementBusiness.AssemblyInfoInputs.cache
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\obj\Debug\netcoreapp3.1\FoodManagementBusiness.AssemblyInfo.cs
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\obj\Debug\netcoreapp3.1\FoodManagementBusiness.csproj.CoreCompileInputs.cache
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\obj\Debug\netcoreapp3.1\FoodManagementBusiness.dll
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\obj\Debug\netcoreapp3.1\FoodManagementBusiness.pdb
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\bin\Debug\netcoreapp3.1\FoodManagementData.dll
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\bin\Debug\netcoreapp3.1\FoodManagementEntity.dll
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\bin\Debug\netcoreapp3.1\FoodManagementData.pdb
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\bin\Debug\netcoreapp3.1\FoodManagementEntity.pdb
+E:\.NET training\csharp\FoodManagement\FoodManagementBusiness\obj\Debug\netcoreapp3.1\FoodManagementBusiness.csproj.CopyComplete
